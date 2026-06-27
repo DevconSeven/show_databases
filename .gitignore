@@ -1,0 +1,10 @@
+# Sensitive configurations
+.env
+
+# Python environment and cache
+__pycache__/
+*.pyc
+
+# PyCharm / IDE Konfigurationen
+.idea/
+*.iml
